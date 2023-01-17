@@ -1,3 +1,9 @@
-# Power BI - Dashboard RH
+# Power BI - HR Dashboard
 
-Nesse Dashboard fiz uma breve analise do arquivo Excel BaseFuncionarios que está contido neste repositório, o Dashboard contém algumas analises como quantidade de Funcionários Ativos, Demissões, TurnOver's, também separei os funcionários tanto por gênero quanto por cidade além de ser feita uma analise de qual área o funcionário pertence.
+## Introduction
+
+In this Dashboard I made a brief analysis of the Excel BaseEmployees file that is contained in this repository, the Dashboard contains some analyzes such as the number of Active Employees, Dismissals, TurnOver's, I also separated employees both by gender and by city, in addition to an analysis of which area the employee belongs.
+
+## Data Used
+
+Here is the dataset used in the project - https://github.com/Math-Muniz/Power-Bi/blob/main/RH/BaseFuncionarios.xlsx
