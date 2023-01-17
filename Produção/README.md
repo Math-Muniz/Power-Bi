@@ -1,4 +1,9 @@
-#Power BI - Dashboard de Produção
+#Power BI - Production Dashboard
 
+## Introduction
 
-Nesse Dashboard fiz uma breve analise do arquivo Excel de Produção dos Operadores que também está contido neste repositório, o Dashboard contém algumas analises como disponibilidade, qualidade, horas produtivas, produção mensal, quantidade rejeitada, quantidade produzida além de podermos selecionar o mês que queremos e o operador.
+In this Dashboard I made a brief analysis of the Operators Production Excel file that is also contained in this repository, the Dashboard contains some analyzes such as availability, quality, productive hours, monthly production, rejected quantity, produced quantity in addition to being able to select the month we want and the operator.
+
+## Data Used
+
+Here is the dataset used in the project - https://github.com/Math-Muniz/Power-Bi/blob/main/Produ%C3%A7%C3%A3o/Produ%C3%A7%C3%A3o.xlsx
