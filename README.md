@@ -1,3 +1,9 @@
 # Power BI
 
-Neste repositório você irá encontrar alguns Dashboards do Power BI com analises rápidas feitas sobre diversas áreas como RH, Vendas, Financias, Produção.
+## Introduction
+
+In this repository you will find some Power BI Dashboards with quick analyzes made on different areas such as HR, Sales, Finance, Production.
+
+## Technology Used
+
+- Power Bi
