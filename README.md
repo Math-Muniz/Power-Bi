@@ -1,8 +1,8 @@
-# Power BI
+# Power BI Reports
 
 ## Introduction
 
-In this repository you will find some Power BI Dashboards with quick analyzes made on different areas such as HR(RH), Sales(Vendas), Production(Produção), Data-Jobs (This repository is a project about the Data Jobs such Data Science, Data Analytics....).
+This repository contains a collection of Power BI reports that can be used to visualize and analyze data. You will find some Power BI Dashboards with quick analyzes made on different areas such as HR(RH), Sales(Vendas), Production(Produção), Data-Jobs (This repository is a project about the Data Jobs such Data Science, Data Analytics....).
 
 ## Built With
 
